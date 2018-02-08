@@ -1,3 +1,4 @@
+.idea
 
 # Created by https://www.gitignore.io/api/intellij
 
@@ -53,7 +54,7 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
-fabric.properties
+fabric.propertiesgit
 
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
