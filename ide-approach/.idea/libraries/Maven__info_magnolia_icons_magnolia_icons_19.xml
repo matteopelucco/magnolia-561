@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: info.magnolia.icons:magnolia-icons:19">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/magnolia/icons/magnolia-icons/19/magnolia-icons-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/info/magnolia/icons/magnolia-icons/19/magnolia-icons-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/info/magnolia/icons/magnolia-icons/19/magnolia-icons-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
